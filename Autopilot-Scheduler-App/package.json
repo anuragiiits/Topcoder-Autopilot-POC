@@ -13,5 +13,8 @@
     "express": "^4.17.1",
     "mongo-scheduler-more": "^2.1.3",
     "package.json": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "^14.3.0"
   }
 }
