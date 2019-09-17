@@ -1,0 +1,18 @@
+{
+  "name": "autopilot-executor-app",
+  "version": "1.0.0",
+  "description": "Executor app for Topcoder Autopilot - Proof of Concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "mongo-scheduler-more": "^2.1.3",
+    "package.json": "^2.0.1",
+    "querystring": "^0.2.0"
+  }
+}
